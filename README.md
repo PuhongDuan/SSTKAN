@@ -15,7 +15,7 @@ PyTorch codes for "Spectral-Spatial-Temporal Kolmogorov-Arnold Network for Hyper
 
 ### Install
 ```
-git clone https://github.com/wwx20031108-svg/SSTKAN.git
+git clone https://github.com/PuhongDuan/SSTKAN.git
 ```
 
 ## 📃 Requirements
